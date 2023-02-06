@@ -21,9 +21,9 @@ public class DefinitionController {
     public DefinitionController() {
         defList = new ArrayList<>();
 
-        defList.add(new Definition("Rat", "Any of several long-tailed rodents of the family Muridae, of the genus Rattus and related genera, distinguished from the mouse by being larger.", idCounter++));
+        defList.add(new Definition("Verdant", "Abundant in plants and flowers; green.", idCounter++));
         defList.add(new Definition("Sonder", "The realization that each random passerby is living a life as vivid and complex as your own.", idCounter++));
-        defList.add(new Definition("Girlboss", "A woman whose success is defined in opposition to the masculine business world in which she swims upstream.", idCounter++));
+        defList.add(new Definition("Apricate", "To bask in the sunshine.", idCounter++));
         defList.add(new Definition("Gaslight", "A type of lamp in which an incandescent mantle is heated by a jet of burning gas.", idCounter++));
         defList.add(new Definition("Gatekeep", "When someone takes it upon themselves to decide who does or does not have access or rights to a community or identity.", idCounter++));
         defList.add(new Definition("Defenestration", "The action of throwing someone out of a window..", idCounter++));
